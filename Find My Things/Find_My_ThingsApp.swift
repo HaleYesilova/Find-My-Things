@@ -2,7 +2,7 @@
 //  Find_My_ThingsApp.swift
 //  Find My Things
 //
-//  Created by Halenur Yeşilova on 18.02.2025.
+//  Created by Halenur Yeşilova .
 //
 
 import SwiftUI

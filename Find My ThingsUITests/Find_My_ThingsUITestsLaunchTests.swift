@@ -2,7 +2,7 @@
 //  Find_My_ThingsUITestsLaunchTests.swift
 //  Find My ThingsUITests
 //
-//  Created by Halenur Yeşilova on 18.02.2025.
+//  Created by Halenur Yeşilova .
 //
 
 import XCTest
