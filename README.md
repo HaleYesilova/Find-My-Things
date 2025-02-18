@@ -1,4 +1,4 @@
-# **Find My Things - iOS Application**
+# **Find My Things**
 
 **Find My Things** is a highly functional iOS application designed to help users track their Bluetooth-enabled devices (e.g., AirPods, Bluetooth speakers, keychains) based on proximity. Using **Core Bluetooth** and **Core Location**, the app provides real-time updates about the proximity of nearby devices, making it easy for users to locate their lost items. It also displays the last known location of devices on an interactive map, enhancing the user experience.
 
